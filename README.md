@@ -8,7 +8,7 @@ Automated ebay webiste
  - BDD Scenarios can be seen in Features files
  - Demonstrated critical scenarios to handle elements and operations when navigated to new child pages
  - Demonstrated overlay/ lightbox elements with webdriverwait methods
- - Demonstrated Step Datat table on textboxes, drop downs list boxes 
+ - Demonstrated Step Data table on textboxes, drop downs list boxes 
  - Demonstrated Data Driven testing on breadcrumb links
  - Configured for Junit Testrunner
  - Once the package is installed on eclipse IDE, right click on project "cucumberfwpom", for clean execution Run As 4 Maven Build with goal- clean install  
